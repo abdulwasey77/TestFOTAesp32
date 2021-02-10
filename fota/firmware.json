@@ -3,5 +3,5 @@
     "version": 2,
     "host": "raw.githubusercontent.com",
     "port": 443,
-    "bin": "/abdulwasey77/TestFOTAesp32/fota/ESP_Wifi_APmpde_test1.ino.esp32.bin"
+    "bin": "/abdulwasey77/TestFOTAesp32/tree/main/fota/ESP_Wifi_APmpde_test1.ino.esp32.bin"
 }
